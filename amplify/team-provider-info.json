@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-googleauthentication-dev-232619-authRole",
+      "UnauthRoleArn": "arn:aws:iam::437749481831:role/amplify-googleauthentication-dev-232619-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::437749481831:role/amplify-googleauthentication-dev-232619-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-googleauthentication-dev-232619-deployment",
+      "UnauthRoleName": "amplify-googleauthentication-dev-232619-unauthRole",
+      "StackName": "amplify-googleauthentication-dev-232619",
+      "StackId": "arn:aws:cloudformation:us-east-1:437749481831:stack/amplify-googleauthentication-dev-232619/01dfadb0-d2e6-11ec-b765-127dfa5eb70f"
+    },
+    "categories": {
+      "auth": {
+        "googleauthentication6655b256": {}
+      }
+    }
+  }
+}
